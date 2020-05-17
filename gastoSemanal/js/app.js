@@ -6,8 +6,6 @@ const formulario = document.getElementById('agregar-gasto');
 
 
 
-
-
 //clases
 //clase de presupuesto
 
@@ -105,9 +103,6 @@ class Interfaz{
     }
     
 }
-
-
-
 
 
 
